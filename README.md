@@ -72,7 +72,6 @@ https://youtu.be/l2lwpnXtrZQ
 ## 💻 Experience & Education
 
 - Unity 게임 및 앱 외주 개발 2022.05 ~ 2022.12
-  - 
 
 - 크래프톤(KRAFTON) 하계 웹 개발 프로그램 2025.08
   - 백엔드 API 설계 및 AWS 환경 웹 서비스 배포 & MongoDB 연동
