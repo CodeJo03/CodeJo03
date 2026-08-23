@@ -1,8 +1,12 @@
-## Hi there 👋
-
 # 개발자 CodeJo입니다.
 
 웹 서비스 개발부터 AI 통합, 그리고 인디 게임 개발까지 다양한 분야에 호기심을 갖고 도전하는 개발자입니다. 사용자와 직접 맞닿는 프로덕트를 기획하고 개발하는 과정을 즐깁니다.
+
+## 🌱 My Contributions
+
+<!-- 아래 '본인깃허브아이디'를 실제 깃허브 아이디로 변경하세요 -->
+<!-- 색상을 바꾸고 싶다면 URL 중간의 '00e5ff' 부분을 다른 HEX 컬러코드로 변경하면 됩니다. -->
+<img src="https://ghchart.rshah.org/00e5ff/본인깃허브아이디" alt="GitHub Contributions Graph" width="100%" />
 
 ## 🛠️ Tech Stack
 
