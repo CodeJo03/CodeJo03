@@ -38,20 +38,38 @@
 
 ## 📚 Algorithm & Study
 
-꾸준한 문제 해결 능력 향상을 위해 백준(BOJ) 알고리즘 문제를 풀고 코드를 기록합니다. 백준은 서비스 종료 관계로 이제 프로그래머스로 진행중입니다. 
+꾸준한 문제 해결 능력 향상을 위해 백준(BOJ) 알고리즘 문제 코드를 기록 (백준은 서비스 종료로 중단.)
 
 - 깃허브 레포지토리: [**Baekjoon-Algorithm-Study**](https://github.com/CodeJo03/baekjoon_gzoro)
 - **My Solved.ac Tier:**  
-  <!-- 아래 '본인백준아이디'를 실제 백준 아이디로 변경하세요 -->
   <a href="https://solved.ac/gzoro">
     <img src="https://mazassumnida.wtf/api/v2/generate_badge?boj=gzoro" alt="Solved.ac Badge" />
   </a>
-  
-<!-- 레벨 표시 예시 -->
+
+꾸준한 문제 해결 능력 향상을 위해 프로그래머스 알고리즘 문제 코드를 기록
+
 <img src="https://img.shields.io/badge/Programmers-Level%203-000000?style=flat-square&logo=Programmers&logoColor=white"/>
 
-<!-- 푼 문제 수 표시 예시 -->
 <img src="https://img.shields.io/badge/Programmers-150_Solved-000000?style=flat-square&logo=Programmers&logoColor=white"/>
+
+---
+## 💻 Experience & Education
+
+<!--
+- **[참여한 부트캠프, 해커톤 또는 대외활동 이름]** `20XX.0X ~ 20XX.0X`
+  - [주요 학습 내용 및 수행한 미션 요약]
+  - [팀 프로젝트에서 본인이 기여한 역할과 구체적인 성과]
+-->
+
+- **크래프톤(KRAFTON) 하계 웹 개발 프로그램 ** 2025.08
+  - 백엔드 API 설계 및 AWS 환경 웹 서비스 배포 & MongoDB 연동
+
+---
+
+## 🗂️ Certification
+
+- 리눅스 마스터 2급
+
 ---
 
 ## 🌱 I'm currently learning...
