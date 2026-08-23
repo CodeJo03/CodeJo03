@@ -6,7 +6,7 @@
 
 <!-- 아래 '본인깃허브아이디'를 실제 깃허브 아이디로 변경하세요 -->
 <!-- 색상을 바꾸고 싶다면 URL 중간의 '00e5ff' 부분을 다른 HEX 컬러코드로 변경하면 됩니다. -->
-<img src="https://ghchart.rshah.org/00e5ff/본인깃허브아이디" alt="GitHub Contributions Graph" width="100%" />
+<img src="https://ghchart.rshah.org/00e5ff/CodeJo03" alt="GitHub Contributions Graph" width="100%" />
 
 ## 🛠️ Tech Stack
 
