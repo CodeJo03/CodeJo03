@@ -46,7 +46,12 @@
   <a href="https://solved.ac/gzoro">
     <img src="https://mazassumnida.wtf/api/v2/generate_badge?boj=gzoro" alt="Solved.ac Badge" />
   </a>
+  
+<!-- 레벨 표시 예시 -->
+<img src="https://img.shields.io/badge/Programmers-Level%203-000000?style=flat-square&logo=Programmers&logoColor=white"/>
 
+<!-- 푼 문제 수 표시 예시 -->
+<img src="https://img.shields.io/badge/Programmers-150_Solved-000000?style=flat-square&logo=Programmers&logoColor=white"/>
 ---
 
 ## 🌱 I'm currently learning...
