@@ -34,6 +34,22 @@
 - **Description:** 초보자를 위한 경제 용어 사전, 문맥 기반 퀴즈, 모의 투자 기능을 제공하는 교육 플랫폼
 - **Stack:** React, Python, FastAPI, MongoDB
 
+### 🚨 [Senior Safety System (독거노인 스마트 케어 IoT 시스템)](https://github.com/system-programming-10/senior-safety-system](https://github.com/CodeJo03/senior-safety-system)
+**Description:** 라즈베리파이(Raspberry Pi)와 다양한 센서를 활용하여 독거노인의 거주 환경과 활동 상태를 실시간으로 모니터링하고, 이상 징후 발생 시 보호자에게 알림을 전송하는 IoT 기반 안전 관리 시스템.
+
+**Tech & Hardware Stack:**
+- **Hardware:** Raspberry Pi 4, 등 여러 감지 센서
+- **Language:** C & Python
+- **Environment:** Linux (Raspberry Pi OS)
+
+**Key Features (주요 기능):**
+1. **실시간 활동 감지 (Activity Monitoring)**
+2. **거주 환경 분석 (Environment Tracking)**
+3. **위급 상황 알림 (Emergency Alert)**
+
+**시연 영상 (화재 등의 위급 상황):**
+https://youtu.be/l2lwpnXtrZQ
+
 ---
 
 ## 📚 Algorithm & Study
@@ -60,6 +76,8 @@
   - [주요 학습 내용 및 수행한 미션 요약]
   - [팀 프로젝트에서 본인이 기여한 역할과 구체적인 성과]
 -->
+- ** Unity 게임 및 앱 외주 개발 ** 2022.05 ~ 2022.12
+  - 
 
 - **크래프톤(KRAFTON) 하계 웹 개발 프로그램 ** 2025.08
   - 백엔드 API 설계 및 AWS 환경 웹 서비스 배포 & MongoDB 연동
