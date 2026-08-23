@@ -1,8 +1,8 @@
 ## Hi there 👋
 
-# 👋 안녕하세요! 발전하는 개발자 [본인 이름/닉네임]입니다.
+# 개발자 CodeJo입니다.
 
-웹 서비스 개발부터 AI 통합, 그리고 인디 게임 개발까지 다양한 분야에 호기심을 갖고 도전하는 대학생이자 예비 창업가입니다. 사용자와 직접 맞닿는 프로덕트를 기획하고 개발하는 과정을 즐깁니다.
+웹 서비스 개발부터 AI 통합, 그리고 인디 게임 개발까지 다양한 분야에 호기심을 갖고 도전하는 개발자입니다. 사용자와 직접 맞닿는 프로덕트를 기획하고 개발하는 과정을 즐깁니다.
 
 ## 🛠️ Tech Stack
 
@@ -31,10 +31,6 @@
 - **Key Features:** AI(RAG, Dify, Claude 등)를 활용한 자동 뉴스 요약 포스팅 시스템 구축
 - **Stack:** React, Python, FastAPI, MongoDB
 
-### 👾 2D Vertical Shooter (레트로 픽셀 아트 슈팅 게임)
-- **Description:** 유니티 엔진을 활용해 논리적 프로그래밍부터 그래픽 에셋(플레이어, 총알, UI)까지 직접 디자인한 2D 종스크롤 슈팅 게임
-- **Stack:** Unity, C#
-
 ---
 
 ## 🌱 I'm currently learning...
@@ -42,5 +38,5 @@
 - 효율적인 스타트업 팀 협업을 위한 비즈니스 문서화 및 프로젝트 관리
 
 ## 📬 Contact Me
-- Email: [본인 이메일 주소]
-- Blog/Portfolio: [블로그나 노션 링크가 있다면 추가]
+- Email: gzoro15907@naver.com
+- Blog/Portfolio: 
