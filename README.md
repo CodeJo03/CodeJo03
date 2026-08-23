@@ -36,6 +36,19 @@
 
 ---
 
+## 📚 Algorithm & Study
+
+꾸준한 문제 해결 능력 향상을 위해 백준(BOJ) 알고리즘 문제를 풀고 코드를 기록합니다. 백준은 서비스 종료 관계로 이제 프로그래머스로 진행중입니다. 
+
+- 깃허브 레포지토리: [**Baekjoon-Algorithm-Study**](https://github.com/CodeJo03/baekjoon_gzoro)
+- **My Solved.ac Tier:**  
+  <!-- 아래 '본인백준아이디'를 실제 백준 아이디로 변경하세요 -->
+  <a href="https://solved.ac/gzoro">
+    <img src="https://mazassumnida.wtf/api/v2/generate_badge?boj=본인백준아이디" alt="Solved.ac Badge" />
+  </a>
+
+---
+
 ## 🌱 I'm currently learning...
 - 웹 애플리케이션에 로컬 벡터 임베딩 및 RAG 시스템을 깊이 있게 연동하는 방법
 - 효율적인 스타트업 팀 협업을 위한 비즈니스 문서화 및 프로젝트 관리
