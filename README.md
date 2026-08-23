@@ -26,9 +26,8 @@
 
 ## 🚀 Featured Projects
 
-### 📈 Quant Project (경제/금융 교육 웹 플랫폼)
+### 📈 Quant Project (경제/금융 교육 웹 플랫폼) (https://github.com/CodeJo03/Quant_project)
 - **Description:** 초보자를 위한 경제 용어 사전, 문맥 기반 퀴즈, 모의 투자 기능을 제공하는 교육 플랫폼
-- **Key Features:** AI(RAG, Dify, Claude 등)를 활용한 자동 뉴스 요약 포스팅 시스템 구축
 - **Stack:** React, Python, FastAPI, MongoDB
 
 ---
