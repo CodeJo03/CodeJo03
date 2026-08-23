@@ -44,7 +44,7 @@
 - **My Solved.ac Tier:**  
   <!-- 아래 '본인백준아이디'를 실제 백준 아이디로 변경하세요 -->
   <a href="https://solved.ac/gzoro">
-    <img src="https://mazassumnida.wtf/api/v2/generate_badge?boj=본인백준아이디" alt="Solved.ac Badge" />
+    <img src="https://mazassumnida.wtf/api/v2/generate_badge?boj=gzoro" alt="Solved.ac Badge" />
   </a>
 
 ---
