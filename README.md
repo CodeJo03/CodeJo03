@@ -34,7 +34,7 @@
 - **Description:** 초보자를 위한 경제 용어 사전, 문맥 기반 퀴즈, 모의 투자 기능을 제공하는 교육 플랫폼
 - **Stack:** React, Python, FastAPI, MongoDB
 
-### 🚨 [Senior Safety System (독거노인 스마트 케어 IoT 시스템)](https://github.com/system-programming-10/senior-safety-system](https://github.com/CodeJo03/senior-safety-system)
+### 🚨 [Senior Safety System (독거노인 스마트 케어 IoT 시스템)] (https://github.com/CodeJo03/senior-safety-system)
 **Description:** 라즈베리파이(Raspberry Pi)와 다양한 센서를 활용하여 독거노인의 거주 환경과 활동 상태를 실시간으로 모니터링하고, 이상 징후 발생 시 보호자에게 알림을 전송하는 IoT 기반 안전 관리 시스템.
 
 **Tech & Hardware Stack:**
